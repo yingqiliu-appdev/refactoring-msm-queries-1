@@ -15,3 +15,4 @@ class ActorsController < ApplicationController
     render({ :template => "actor_templates/show.html.erb" })
   end
 end
+
